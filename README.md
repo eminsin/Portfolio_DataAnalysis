@@ -2,12 +2,9 @@
 
 ## Description
 :pushpin: This repo contains **2 SQL**, **1 EXCEL**, **1 TABLEAU**, **1 POWER BI** and **3 PYTHON** projects I created to showcase my data analysis skills.  
-
-:pushpin: Additionally, please see the repos below to check   
-+ [Data Analysis with :registered:](https://github.com/eminsin/Learn-R-for-Data-Analysis)    
-+ [Statistical and Regression Analysis with :registered:](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis)   
+  
 ## Author
-:copyright: Erkam Minsin    :email: [Send a message](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
+✍ Faik Erkam Minsin &nbsp; [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erkam-minsin/)
 ## Projects
 ### :chart_with_upwards_trend: [Project 1: Covid-19 Data Exploration](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Covid2023.sql)
 Scripted on: **SQL Server 19.0.1**      
